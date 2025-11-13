@@ -1,0 +1,90 @@
+ID: "COMP3043"
+SimilarID: []
+Name: "深度学习体系结构"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "计算机" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "选修"
+  CourseID: "COMP3043"
+  CourseName: "深度学习体系结构"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验"
+      Percentage: "40"
+    - Name: "课堂小测"
+      Percentage: "40"
+    - Name: "期末报告"
+      Percentage: "20"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2020_2021"
+      Name: [ "计算机", "计算机（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "COMP3043"
+  CourseName: "深度学习体系结构"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验"
+      Percentage: "40"
+    - Name: "课堂小测"
+      Percentage: "40"
+    - Name: "期末报告"
+      Percentage: "20"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "计算机" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "选修"
+  CourseID: "COMP3043"
+  CourseName: "深度学习体系结构"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "实验"
+      Percentage: "40"
+    - Name: "课堂小测"
+      Percentage: "40"
+    - Name: "期末报告"
+      Percentage: "20"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
