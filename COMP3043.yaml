@@ -1,0 +1,27 @@
+# 注意：课程代码在作为跨专业选修课时变为 COMP3043C，但内容不变。已在 notices 字段中注明。
+course_name: "深度学习体系结构"
+course_code: "COMP3043"
+notices: |
+  2019 级以前（2021 秋以前的秋季学期）作为计科的计算机系统方向的方向限选课，2024 秋和 2025 夏作为跨专业选修课程开设，课程代码为COMP3043C，内容不变。
+grading:
+  "0000": "实验(40%) + 课堂小测(40%) + 期末报告(20%)"
+teachers:
+  - name: "曾国坤"
+    reviews:
+      - content: "会提前发ppt。"
+        submitter:
+          name: ""
+          link: ""
+textbooks: []
+online_resources: []
+about_course:
+  - content: |
+      实验老师精心设计，生怕同学们做不出来。因为要上板子，所以实验的时长都会偏长，也可能发生一些比较玄学的错误。总体来说，实验不算太难。
+    submitter:
+      name: ""
+      link: ""
+about_exam: []
+study_advice: []
+schedule: []
+related_links: []
+misc: []
