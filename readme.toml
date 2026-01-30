@@ -1,0 +1,19 @@
+course_name = "深度学习体系结构"
+repo_type = "normal"
+course_code = "COMP3043"
+
+# 授课教师 (Lecturers)
+[[lecturers]]
+name = "曾国坤"
+
+  [[lecturers.reviews]]
+  content = """会提前发ppt。"""
+  author = { name = "", link = "", date = "" }
+
+[[lab]]
+content = """
+实验老师精心设计，生怕同学们做不出来。
+因为要上板子，所以实验的时长都会偏长，也可能发生一些比较玄学的错误。
+总体来说，实验不算太难。
+"""
+author = { name = "", link = "", date = "" }
