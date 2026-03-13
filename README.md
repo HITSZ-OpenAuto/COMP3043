@@ -12,6 +12,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 曾国坤
   <!-- TOML-ITEM: id="review-曾国坤-1" -->
   - 会提前发ppt。
