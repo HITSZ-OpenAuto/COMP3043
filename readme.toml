@@ -7,19 +7,19 @@ description = """
 """
 
 [lecturers]
-
 [[lecturers.items]]
 name = "曾国坤"
-
 [[lecturers.items.reviews]]
 content = "会提前发ppt。"
-
+[[lecturers.items.reviews]]
+content = "老师很好，不点名，讲课也不错"
+author = { name = "离谱", link = "", date = "2026-04" }
 [[sections]]
 title = "关于实验"
-
 [[sections.items]]
 content = """
 实验老师精心设计，生怕同学们做不出来。
 因为要上板子，所以实验的时长都会偏长，也可能发生一些比较玄学的错误。
 总体来说，实验不算太难。
+
 """
