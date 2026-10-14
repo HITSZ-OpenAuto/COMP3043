@@ -1,11 +1,5 @@
 # COMP3043 - 深度学习体系结构
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
-![课堂小测40%](https://img.shields.io/badge/课堂小测-40%25-wheat)
-![期末报告20%](https://img.shields.io/badge/期末报告-20%25-wheat)
 
 2019 级以前（2021 秋以前的秋季学期）作为计科的计算机系统方向的方向限选课。
 2024 秋和 2025 夏作为跨专业选修课程开设，课程代码为 COMP3043C，内容不变。
