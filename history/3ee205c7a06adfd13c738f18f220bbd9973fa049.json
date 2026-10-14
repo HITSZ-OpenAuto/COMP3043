@@ -1,0 +1,112 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814973,
+    "hash": "89293245052d85a567cecf5c55aff29d5d08a2a0"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1756832514,
+    "hash": "a29c47ba030f1643e79c206e619b19ad78d53b0d"
+  },
+  "README.md": {
+    "size": 728,
+    "time": 1791961632,
+    "hash": "3ee205c7a06adfd13c738f18f220bbd9973fa049"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1756832514,
+    "hash": "a29c47ba030f1643e79c206e619b19ad78d53b0d"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1756832514,
+    "hash": "a29c47ba030f1643e79c206e619b19ad78d53b0d"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1756832514,
+    "hash": "a29c47ba030f1643e79c206e619b19ad78d53b0d"
+  },
+  "labs/2021/lab1-神经网络加速器设计入门-PPT.pdf": {
+    "size": 1028573,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "labs/2021/lab2-YOLO算法量化加速-PPT.pdf": {
+    "size": 937409,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "labs/2021/lab3-基于LSTM的MNIST手写数字识别加速-PPT (1).pdf": {
+    "size": 2082711,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "labs/2021/lab4-基于脉动阵列的CNN加速器设计-PPT.pdf": {
+    "size": 1149118,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1756832514,
+    "hash": "a29c47ba030f1643e79c206e619b19ad78d53b0d"
+  },
+  "readme.toml": {
+    "size": 702,
+    "time": 1773428216,
+    "hash": "42b1a7ba496e01ca511928bde1e70636b4e703af"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1756832514,
+    "hash": "a29c47ba030f1643e79c206e619b19ad78d53b0d"
+  },
+  "slides/2021_zgk/DLA1.基本介绍-2021-11-17.pdf": {
+    "size": 8497297,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA2.开发环境-2021-11-17.pdf": {
+    "size": 6154179,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA3.HLS设计-2021-11-20.pdf": {
+    "size": 4229562,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA4.神经网路-2021-11-24.pdf": {
+    "size": 7519144,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA5.CNN与量化设计-2021-12-01.pdf": {
+    "size": 8019213,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA6.RNN与压缩设计-2021-12-05.pdf": {
+    "size": 10967867,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA7.进阶架构设计-2021-12-12.pdf": {
+    "size": 5218799,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA8-SNN-2021-12-21.pdf": {
+    "size": 3641616,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  },
+  "slides/2021_zgk/DLA9-元学习-2021-12-21.pdf": {
+    "size": 6236368,
+    "time": 1756833148,
+    "hash": "7060c2616da741706253ac0f2c75d011529856e7"
+  }
+}
